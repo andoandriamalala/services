@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <nav>
-      <ul>
+      <ul className="menu">
         <li><a href="/">Home</a></li>
       </ul>
     </nav>
